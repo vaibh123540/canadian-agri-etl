@@ -6,7 +6,7 @@ To analyze the stability of Canadian food production (2020-2025) by building an 
 ### [View the Interactive Tableau Dashboard Here](https://public.tableau.com/app/profile/vaibhav.jain4171/viz/CanadianAgricultureProductionAnalytics/Dashboard1?publish=yes)
 
 ### Dashboard Preview
-![alt text](https://github.com/vaibh123540/canadian-agri-etl/main/preview.png "Dashboard Preview")
+![alt text](https://github.com/vaibh123540/canadian-agri-etl/blob/main/preview.png "Dashboard Preview")
 
 ---
 

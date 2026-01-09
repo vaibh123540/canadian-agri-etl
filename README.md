@@ -25,10 +25,4 @@ To analyze the stability of Canadian food production (2020-2025) by building an 
 * `etl_cleaner.py`: The main Python script for data extraction, transformation, and loading.
 * `3210035901-eng.csv`: Raw dataset sourced from the Open Government Portal.
 * `cleaned_provincial_crops.csv`: The processed output file used for visualization.
-
-### How to Run the ETL Pipeline
-If you wish to reproduce the data cleaning steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/canadian-agri-dashboard.git](https://github.com/YOUR_USERNAME/canadian-agri-dashboard.git)
+   

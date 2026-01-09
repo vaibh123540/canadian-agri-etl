@@ -26,7 +26,7 @@ To analyze the stability of Canadian food production (2020-2025) by building an 
 * `3210035901-eng.csv`: Raw dataset sourced from the Open Government Portal.
 * `cleaned_provincial_crops.csv`: The processed output file used for visualization.
 
-### ⚙️ How to Run the ETL Pipeline
+### How to Run the ETL Pipeline
 If you wish to reproduce the data cleaning steps:
 
 1. **Clone the repository:**

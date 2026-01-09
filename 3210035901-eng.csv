@@ -1,0 +1,60 @@
+﻿"Estimated areas, yield, production, average farm price and total farm value of principal field crops, in metric and imperial units c 1 2 3 4 5 6 7 8 9"
+"Frequency: Annual"
+"Table: 32-10-0359-01 (formerly CANSIM 001-0017)"
+"Release date: 2025-12-04"
+"Geography: Canada, Geographical region of Canada, Province or territory"
+""
+""
+
+"Geography","Quebec",,,,,,"Ontario",,,,,,"Prairie provinces (Terminated) 10 11",,,,,,"Manitoba 5",,,,,,"Saskatchewan",,,,,,"Alberta",,,,,,"British Columbia",,,,,
+"Harvest disposition","Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,,"Production (metric tonnes)",,,,,
+"Type of crop","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025","2020","2021","2022","2023","2024","2025"
+"Barley 12 13","125,900","132,552","105,335","78,564r","107,610","98,936","113,100","90,153","104,588","78,039","89,883","79,728","..t","..t","..t","..t","..t","..t","686,400","439,244","657,317","664,587","511,859","534,744","4,385,100","2,499,078","3,550,934","3,226,892","3,035,313","3,522,285","5,283,000","3,647,938","5,380,670","4,721,060","4,229,438","5,313,172","61,800","63,289","76,964","64,143","62,566","78,235"
+"Canola (rapeseed) 12 14","24,000","29,941","38,674","33,887r","35,894","19,211","33,400","40,732","62,528","53,574","61,007r","59,052","..t","..t","..t","..t","..t","..t","3,190,700","2,800,089r","3,162,428r","3,152,107r","3,016,138r","3,062,966","10,967,900","6,968,814r","9,923,300r","10,425,800r","10,454,084r","12,203,632","5,212,100","4,341,000","5,591,701","5,713,100r","5,598,858r","6,349,122","55,900","66,537","68,975","82,269","70,663","107,289"
+"Corn for grain 12 15 16","3,264,100","3,545,142","3,560,877","3,343,080","3,606,811","2,948,392","8,908,800","9,722,436","9,440,801","9,977,294r","9,627,358","9,493,238","..t","..t","..t","..t","..t","..t","1,140,300","1,004,647","1,331,625","1,785,503","1,767,084","2,164,341","19,300","16,682","F","F","67,160","30,491","108,600","162,127","44,024","131,017","F","F","6,600","F","11,838","4,568","F","8,012"
+"Wheat, all 12 17 18","248,500","329,200","347,135","277,181r","304,183","301,838","2,485,300","2,993,000","2,557,300r","3,003,600r","2,560,200r","3,030,809","..t","..t","..t","..t","..t","..t","5,274,100","3,762,800","5,126,368r","5,559,310r","5,736,073r","5,863,572","16,238,400","8,833,900","15,293,389r","15,021,905r","17,192,904r","18,246,567","11,041,000","6,374,900","11,343,305","9,375,783r","9,939,396r","12,283,980","61,600","58,800","110,846","100,013","116,053","137,315"
+"Wheat, durum 12","0","F","F","10,534","F","F","0","F","Fr","Fr","Fr","F","..t","..t","..t","..t","..t","..t","35,300","16,759","53,368r","60,183","35,588","101,955","5,211,200","2,416,061","4,516,489r","3,393,883r","4,971,666r","5,393,885","1,324,700","598,923","1,194,495","759,952r","1,307,581r","1,581,258","0","F","2,958","F","6,245","10,504"
+"Wheat, spring 12","216,900","252,730","243,245","181,211r","176,334","161,586","146,900","166,441","168,128r","136,272","86,689r","94,122","..t","..t","..t","..t","..t","..t","5,184,500","3,686,732","5,032,483r","5,381,637r","5,644,786r","5,709,419","10,874,500","6,377,062","10,686,207r","11,563,941r","12,082,558r","12,723,069","9,555,900","5,597,900","9,963,746","8,442,799","8,395,923","10,432,514","51,000","45,779","97,436","88,116","96,052","105,525"
+"Wheat, winter remaining 12 19","31,700","76,488","93,476","85,437","115,859","140,252","2,338,400","2,826,576","2,376,526r","2,847,841r","2,429,816r","2,889,310","..t","..t","..t","..t","..t","..t","54,100","59,331","40,517r","117,490r","55,698r","52,198","152,700","40,759","90,693r","64,081r","138,680r","129,613","160,400","178,034","185,064","173,032","235,892","270,208","10,600","12,240","10,453","F","13,756","21,286"
+
+Symbol legend:
+.., not available for a specific reference period
+r, revised
+F, too unreliable to be published
+
+
+"Table Corrections:"
+Date,Note
+"","On October 11, 2019, a correction was made to the 2018 Saskatchewan and Canada total summerfallow areas in hectares only. The area in acres was correct."
+"","On December 12, 2019, a correction has been made to the number for the production of dry coloured beans in hundredweight for Ontario and Canada in 2019. Both numbers have been divided by one thousand and yields have been adjusted to reflect the updated estimates."
+"","On March 4, 2021, the data for 2020 canary seed production in Manitoba were revised in both imperial and metric units."
+"","On September 12, 2023, the data for July 31, 2023 yield and production were restored to published values."
+"","On December 13, 2016, estimates for category "Wheat, all excluding durum wheat" in 2016 were corrected for the following geographies: Maritime provinces, East and Canada."
+
+
+
+Footnotes:
+1,"Field crop surveys collect data from Quebec, Ontario, Manitoba, Saskatchewan and Alberta on three occasions during the crop year (which extends from December to the following November). However, data are collected twice a year (in the Field Crops Survey - June on seeded areas and in the Field Crops Survey - November on final crop production) for Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick and British Columbia, which represent between 2% and 4% of national totals. As of July 2014 for the Atlantic Provinces and British Columbia, July and September production estimates are calculated using the final estimates of the last three crop years. The harvested area is first estimated based on the ratio obtained from the sum of harvested areas of the last three years over the sum of the seeded areas of the last three years. This average ratio is applied to their 2014 reported seeded acreage from the June survey. This estimated harvested area is then multiplied by the average yield of the last three years to estimate production."
+2,"Totals may not equal the sum of their parts due to the use of conversion factors or rounding of fractions to whole numbers."
+3,"On December 13, 2016, estimates for category "Wheat, all excluding durum wheat" in 2016 were corrected for the following geographies: Maritime provinces, East and Canada."
+4,"Starting in June 2018, for March, June and November occasions, the Canadian total for a given crop includes all provincial estimates, whether they are published or not based on quality and confidentiality factors. Note that overall, the estimates of the most important crops non-published in the past generally represent less than 5% of the Canadian total."
+5,"Starting in July 2019, model-based data were used estimate yield and production for the province of Manitoba for the July occasion."
+6,"Starting in July 2020, model-based data was used to estimate the July occasion yield and production for the provinces of Ontario, Quebec, Manitoba, Alberta, and Saskatchewan.  The July model incorporates coarse resolution satellite data from Statistics Canada's Crop Condition Assessment Program, data from Statistics Canada's field crop reporting series, and agroclimatic data.  "
+7,"Starting in September 2016, model-based data was used to estimate the September survey occasion yield and production for the provinces of Ontario, Quebec, Manitoba, Alberta, and Saskatchewan.  The September model incorporates coarse resolution satellite data from Statistics Canada's Crop Condition Assessment Program, data from Statistics Canada's field crop reporting series, and agroclimatic data up until the end of August.  In September 2020, an enhanced crop yield model that incorporates crop insurance was used."
+8,"Provincial estimates released for July and September occasions, based on coarse resolution remote sensing imagery, may be unavailable in some cases. Canada totals represent the sum of available estimates."
+9,"Starting in December 2022 seeding intentions, previously collected in March, are now collected in December."
+10,"Prairies includes Manitoba, Alberta and Saskatchewan, but excludes British Columbia."
+11,"The geographies for the East, West, Maritimes, and Prairies were discontinued in 2018."
+12,"Metric data were previously released in CANSIM table 001-0010, which is no longer available as of December 2017. Metric and imperial data are now both included in table 32-10-0359-01 (previously known as 001-0017)."
+13,"Data for British Columbia begin in 1910."
+14,"Estimates are not available for small area, which were grown in Alberta and Ontario between 1943 and 1945. Data begin in 1943 for Manitoba and Saskatchewan, in 1955 for Alberta, in 1967 for British Columbia, in 1983 for Ontario, in 1996 for Quebec, and in 2012 for New Brunswick, Prince Edward Island, Nova Scotia and Newfoundland and Labrador."
+15,"Data begin in 1941 for Manitoba, in 1979 for Alberta and in 1981 for Nova Scotia.  Data begin in 2006 for New Brunswick, in 2012 for Prince Edward Island, and in 2018 for Saskatchewan and British Columbia."
+16,"Respondents are asked to report the percentage moisture of their harvested corn for grain. Estimates of corn for grain production are calculated using a standard percentage moisture content of 15.5%."
+17,"Seeded area, yield and production of all wheat in Alberta include relatively small estimates of winter wheat for years 1921 to 1977."
+18,"All wheat includes spring wheat, durum wheat and winter wheat seeded in the fall."
+19,"Winter wheat remaining and fall rye remaining indicate the areas seeded in the fall of the previous year that are remaining after winterkill."
+
+
+
+"How to cite: Statistics Canada. Table 32-10-0359-01  Estimated areas, yield, production, average farm price and total farm value of principal field crops, in metric and imperial units"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3210035901

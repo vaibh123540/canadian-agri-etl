@@ -1,0 +1,235 @@
+Province,Crop,Year,Production_MT
+Quebec,Barley,2020,125900.0
+Quebec,Barley,2021,132552.0
+Quebec,Barley,2022,105335.0
+Quebec,Barley,2023,78564.0
+Quebec,Barley,2024,107610.0
+Quebec,Barley,2025,98936.0
+Ontario,Barley,2020,113100.0
+Ontario,Barley,2021,90153.0
+Ontario,Barley,2022,104588.0
+Ontario,Barley,2023,78039.0
+Ontario,Barley,2024,89883.0
+Ontario,Barley,2025,79728.0
+Manitoba,Barley,2020,686400.0
+Manitoba,Barley,2021,439244.0
+Manitoba,Barley,2022,657317.0
+Manitoba,Barley,2023,664587.0
+Manitoba,Barley,2024,511859.0
+Manitoba,Barley,2025,534744.0
+Saskatchewan,Barley,2020,4385100.0
+Saskatchewan,Barley,2021,2499078.0
+Saskatchewan,Barley,2022,3550934.0
+Saskatchewan,Barley,2023,3226892.0
+Saskatchewan,Barley,2024,3035313.0
+Saskatchewan,Barley,2025,3522285.0
+Alberta,Barley,2020,5283000.0
+Alberta,Barley,2021,3647938.0
+Alberta,Barley,2022,5380670.0
+Alberta,Barley,2023,4721060.0
+Alberta,Barley,2024,4229438.0
+Alberta,Barley,2025,5313172.0
+British Columbia,Barley,2020,61800.0
+British Columbia,Barley,2021,63289.0
+British Columbia,Barley,2022,76964.0
+British Columbia,Barley,2023,64143.0
+British Columbia,Barley,2024,62566.0
+British Columbia,Barley,2025,78235.0
+Quebec,Canola (rapeseed),2020,24000.0
+Quebec,Canola (rapeseed),2021,29941.0
+Quebec,Canola (rapeseed),2022,38674.0
+Quebec,Canola (rapeseed),2023,33887.0
+Quebec,Canola (rapeseed),2024,35894.0
+Quebec,Canola (rapeseed),2025,19211.0
+Ontario,Canola (rapeseed),2020,33400.0
+Ontario,Canola (rapeseed),2021,40732.0
+Ontario,Canola (rapeseed),2022,62528.0
+Ontario,Canola (rapeseed),2023,53574.0
+Ontario,Canola (rapeseed),2024,61007.0
+Ontario,Canola (rapeseed),2025,59052.0
+Manitoba,Canola (rapeseed),2020,3190700.0
+Manitoba,Canola (rapeseed),2021,2800089.0
+Manitoba,Canola (rapeseed),2022,3162428.0
+Manitoba,Canola (rapeseed),2023,3152107.0
+Manitoba,Canola (rapeseed),2024,3016138.0
+Manitoba,Canola (rapeseed),2025,3062966.0
+Saskatchewan,Canola (rapeseed),2020,10967900.0
+Saskatchewan,Canola (rapeseed),2021,6968814.0
+Saskatchewan,Canola (rapeseed),2022,9923300.0
+Saskatchewan,Canola (rapeseed),2023,10425800.0
+Saskatchewan,Canola (rapeseed),2024,10454084.0
+Saskatchewan,Canola (rapeseed),2025,12203632.0
+Alberta,Canola (rapeseed),2020,5212100.0
+Alberta,Canola (rapeseed),2021,4341000.0
+Alberta,Canola (rapeseed),2022,5591701.0
+Alberta,Canola (rapeseed),2023,5713100.0
+Alberta,Canola (rapeseed),2024,5598858.0
+Alberta,Canola (rapeseed),2025,6349122.0
+British Columbia,Canola (rapeseed),2020,55900.0
+British Columbia,Canola (rapeseed),2021,66537.0
+British Columbia,Canola (rapeseed),2022,68975.0
+British Columbia,Canola (rapeseed),2023,82269.0
+British Columbia,Canola (rapeseed),2024,70663.0
+British Columbia,Canola (rapeseed),2025,107289.0
+Quebec,Corn for grain,2020,3264100.0
+Quebec,Corn for grain,2021,3545142.0
+Quebec,Corn for grain,2022,3560877.0
+Quebec,Corn for grain,2023,3343080.0
+Quebec,Corn for grain,2024,3606811.0
+Quebec,Corn for grain,2025,2948392.0
+Ontario,Corn for grain,2020,8908800.0
+Ontario,Corn for grain,2021,9722436.0
+Ontario,Corn for grain,2022,9440801.0
+Ontario,Corn for grain,2023,9977294.0
+Ontario,Corn for grain,2024,9627358.0
+Ontario,Corn for grain,2025,9493238.0
+Manitoba,Corn for grain,2020,1140300.0
+Manitoba,Corn for grain,2021,1004647.0
+Manitoba,Corn for grain,2022,1331625.0
+Manitoba,Corn for grain,2023,1785503.0
+Manitoba,Corn for grain,2024,1767084.0
+Manitoba,Corn for grain,2025,2164341.0
+Saskatchewan,Corn for grain,2020,19300.0
+Saskatchewan,Corn for grain,2021,16682.0
+Saskatchewan,Corn for grain,2024,67160.0
+Saskatchewan,Corn for grain,2025,30491.0
+Alberta,Corn for grain,2020,108600.0
+Alberta,Corn for grain,2021,162127.0
+Alberta,Corn for grain,2022,44024.0
+Alberta,Corn for grain,2023,131017.0
+British Columbia,Corn for grain,2020,6600.0
+British Columbia,Corn for grain,2022,11838.0
+British Columbia,Corn for grain,2023,4568.0
+British Columbia,Corn for grain,2025,8012.0
+Quebec,"Wheat, all",2020,248500.0
+Quebec,"Wheat, all",2021,329200.0
+Quebec,"Wheat, all",2022,347135.0
+Quebec,"Wheat, all",2023,277181.0
+Quebec,"Wheat, all",2024,304183.0
+Quebec,"Wheat, all",2025,301838.0
+Ontario,"Wheat, all",2020,2485300.0
+Ontario,"Wheat, all",2021,2993000.0
+Ontario,"Wheat, all",2022,2557300.0
+Ontario,"Wheat, all",2023,3003600.0
+Ontario,"Wheat, all",2024,2560200.0
+Ontario,"Wheat, all",2025,3030809.0
+Manitoba,"Wheat, all",2020,5274100.0
+Manitoba,"Wheat, all",2021,3762800.0
+Manitoba,"Wheat, all",2022,5126368.0
+Manitoba,"Wheat, all",2023,5559310.0
+Manitoba,"Wheat, all",2024,5736073.0
+Manitoba,"Wheat, all",2025,5863572.0
+Saskatchewan,"Wheat, all",2020,16238400.0
+Saskatchewan,"Wheat, all",2021,8833900.0
+Saskatchewan,"Wheat, all",2022,15293389.0
+Saskatchewan,"Wheat, all",2023,15021905.0
+Saskatchewan,"Wheat, all",2024,17192904.0
+Saskatchewan,"Wheat, all",2025,18246567.0
+Alberta,"Wheat, all",2020,11041000.0
+Alberta,"Wheat, all",2021,6374900.0
+Alberta,"Wheat, all",2022,11343305.0
+Alberta,"Wheat, all",2023,9375783.0
+Alberta,"Wheat, all",2024,9939396.0
+Alberta,"Wheat, all",2025,12283980.0
+British Columbia,"Wheat, all",2020,61600.0
+British Columbia,"Wheat, all",2021,58800.0
+British Columbia,"Wheat, all",2022,110846.0
+British Columbia,"Wheat, all",2023,100013.0
+British Columbia,"Wheat, all",2024,116053.0
+British Columbia,"Wheat, all",2025,137315.0
+Quebec,"Wheat, durum",2020,0.0
+Quebec,"Wheat, durum",2023,10534.0
+Ontario,"Wheat, durum",2020,0.0
+Manitoba,"Wheat, durum",2020,35300.0
+Manitoba,"Wheat, durum",2021,16759.0
+Manitoba,"Wheat, durum",2022,53368.0
+Manitoba,"Wheat, durum",2023,60183.0
+Manitoba,"Wheat, durum",2024,35588.0
+Manitoba,"Wheat, durum",2025,101955.0
+Saskatchewan,"Wheat, durum",2020,5211200.0
+Saskatchewan,"Wheat, durum",2021,2416061.0
+Saskatchewan,"Wheat, durum",2022,4516489.0
+Saskatchewan,"Wheat, durum",2023,3393883.0
+Saskatchewan,"Wheat, durum",2024,4971666.0
+Saskatchewan,"Wheat, durum",2025,5393885.0
+Alberta,"Wheat, durum",2020,1324700.0
+Alberta,"Wheat, durum",2021,598923.0
+Alberta,"Wheat, durum",2022,1194495.0
+Alberta,"Wheat, durum",2023,759952.0
+Alberta,"Wheat, durum",2024,1307581.0
+Alberta,"Wheat, durum",2025,1581258.0
+British Columbia,"Wheat, durum",2020,0.0
+British Columbia,"Wheat, durum",2022,2958.0
+British Columbia,"Wheat, durum",2024,6245.0
+British Columbia,"Wheat, durum",2025,10504.0
+Quebec,"Wheat, spring",2020,216900.0
+Quebec,"Wheat, spring",2021,252730.0
+Quebec,"Wheat, spring",2022,243245.0
+Quebec,"Wheat, spring",2023,181211.0
+Quebec,"Wheat, spring",2024,176334.0
+Quebec,"Wheat, spring",2025,161586.0
+Ontario,"Wheat, spring",2020,146900.0
+Ontario,"Wheat, spring",2021,166441.0
+Ontario,"Wheat, spring",2022,168128.0
+Ontario,"Wheat, spring",2023,136272.0
+Ontario,"Wheat, spring",2024,86689.0
+Ontario,"Wheat, spring",2025,94122.0
+Manitoba,"Wheat, spring",2020,5184500.0
+Manitoba,"Wheat, spring",2021,3686732.0
+Manitoba,"Wheat, spring",2022,5032483.0
+Manitoba,"Wheat, spring",2023,5381637.0
+Manitoba,"Wheat, spring",2024,5644786.0
+Manitoba,"Wheat, spring",2025,5709419.0
+Saskatchewan,"Wheat, spring",2020,10874500.0
+Saskatchewan,"Wheat, spring",2021,6377062.0
+Saskatchewan,"Wheat, spring",2022,10686207.0
+Saskatchewan,"Wheat, spring",2023,11563941.0
+Saskatchewan,"Wheat, spring",2024,12082558.0
+Saskatchewan,"Wheat, spring",2025,12723069.0
+Alberta,"Wheat, spring",2020,9555900.0
+Alberta,"Wheat, spring",2021,5597900.0
+Alberta,"Wheat, spring",2022,9963746.0
+Alberta,"Wheat, spring",2023,8442799.0
+Alberta,"Wheat, spring",2024,8395923.0
+Alberta,"Wheat, spring",2025,10432514.0
+British Columbia,"Wheat, spring",2020,51000.0
+British Columbia,"Wheat, spring",2021,45779.0
+British Columbia,"Wheat, spring",2022,97436.0
+British Columbia,"Wheat, spring",2023,88116.0
+British Columbia,"Wheat, spring",2024,96052.0
+British Columbia,"Wheat, spring",2025,105525.0
+Quebec,"Wheat, winter remaining",2020,31700.0
+Quebec,"Wheat, winter remaining",2021,76488.0
+Quebec,"Wheat, winter remaining",2022,93476.0
+Quebec,"Wheat, winter remaining",2023,85437.0
+Quebec,"Wheat, winter remaining",2024,115859.0
+Quebec,"Wheat, winter remaining",2025,140252.0
+Ontario,"Wheat, winter remaining",2020,2338400.0
+Ontario,"Wheat, winter remaining",2021,2826576.0
+Ontario,"Wheat, winter remaining",2022,2376526.0
+Ontario,"Wheat, winter remaining",2023,2847841.0
+Ontario,"Wheat, winter remaining",2024,2429816.0
+Ontario,"Wheat, winter remaining",2025,2889310.0
+Manitoba,"Wheat, winter remaining",2020,54100.0
+Manitoba,"Wheat, winter remaining",2021,59331.0
+Manitoba,"Wheat, winter remaining",2022,40517.0
+Manitoba,"Wheat, winter remaining",2023,117490.0
+Manitoba,"Wheat, winter remaining",2024,55698.0
+Manitoba,"Wheat, winter remaining",2025,52198.0
+Saskatchewan,"Wheat, winter remaining",2020,152700.0
+Saskatchewan,"Wheat, winter remaining",2021,40759.0
+Saskatchewan,"Wheat, winter remaining",2022,90693.0
+Saskatchewan,"Wheat, winter remaining",2023,64081.0
+Saskatchewan,"Wheat, winter remaining",2024,138680.0
+Saskatchewan,"Wheat, winter remaining",2025,129613.0
+Alberta,"Wheat, winter remaining",2020,160400.0
+Alberta,"Wheat, winter remaining",2021,178034.0
+Alberta,"Wheat, winter remaining",2022,185064.0
+Alberta,"Wheat, winter remaining",2023,173032.0
+Alberta,"Wheat, winter remaining",2024,235892.0
+Alberta,"Wheat, winter remaining",2025,270208.0
+British Columbia,"Wheat, winter remaining",2020,10600.0
+British Columbia,"Wheat, winter remaining",2021,12240.0
+British Columbia,"Wheat, winter remaining",2022,10453.0
+British Columbia,"Wheat, winter remaining",2024,13756.0
+British Columbia,"Wheat, winter remaining",2025,21286.0
